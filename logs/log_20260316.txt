@@ -1,0 +1,17 @@
+2026-03-16 07:07:14,262 - INFO - Hava durumu verisi başarıyla çekildi: 4°C
+2026-03-16 07:07:14,378 - INFO - 10 deprem verisi çekildi
+2026-03-16 07:10:19,145 - INFO - Hava durumu verisi başarıyla çekildi: 4°C
+2026-03-16 07:10:19,146 - INFO - Hava verisi temizlendi
+2026-03-16 07:10:19,250 - INFO - 10 deprem verisi çekildi
+2026-03-16 07:10:19,251 - INFO - 10 deprem verisi temizlendi
+2026-03-16 07:12:03,520 - INFO - Hava durumu verisi başarıyla çekildi: 4°C
+2026-03-16 07:12:03,523 - INFO - Hava verisi temizlendi
+2026-03-16 07:12:03,645 - INFO - 10 deprem verisi çekildi
+2026-03-16 07:12:03,645 - INFO - 10 deprem verisi temizlendi
+2026-03-16 07:12:04,009 - INFO - Rapor oluşturuldu: raporlar/rapor_20260316_071203.xlsx
+2026-03-16 07:13:49,519 - INFO - Hava durumu verisi başarıyla çekildi: 4°C
+2026-03-16 07:13:49,637 - INFO - 10 deprem verisi çekildi
+2026-03-16 07:13:49,638 - INFO - Hava verisi temizlendi
+2026-03-16 07:13:49,638 - INFO - 10 deprem verisi temizlendi
+2026-03-16 07:13:49,973 - INFO - Rapor oluşturuldu: raporlar/rapor_20260316_071349.xlsx
+2026-03-16 07:13:49,975 - INFO - Pipeline başarıyla tamamlandı
