@@ -93,3 +93,7 @@
 2026-03-16 21:00:29,477 - INFO - 10 deprem verisi çekildi
 2026-03-16 21:00:29,486 - INFO - 10 deprem verisi temizlendi
 2026-03-16 21:00:29,695 - INFO - 127.0.0.1 - - [16/Mar/2026 21:00:29] "GET /api/veri HTTP/1.1" 200 -
+2026-03-16 21:11:14,136 - INFO - Hava durumu verisi başarıyla çekildi: 10°C
+2026-03-16 21:11:14,138 - INFO - Hava verisi temizlendi
+2026-03-16 21:11:14,254 - INFO - 10 deprem verisi çekildi
+2026-03-16 21:11:14,254 - INFO - 10 deprem verisi temizlendi
